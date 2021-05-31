@@ -1,0 +1,1 @@
+https://code.quarkus.io/d?g=io.chillplus&a=catalog&e=resteasy&e=resteasy-jackson&e=hibernate-validator&cn=code.quarkus.io
