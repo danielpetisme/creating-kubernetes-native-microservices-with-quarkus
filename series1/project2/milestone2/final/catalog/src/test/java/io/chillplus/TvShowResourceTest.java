@@ -15,7 +15,6 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 
 @QuarkusTest
-@QuarkusTestResource(PostgresResource.class)
 public class TvShowResourceTest {
 
     public static final String DEFAULT_TITLE = "AAA";
